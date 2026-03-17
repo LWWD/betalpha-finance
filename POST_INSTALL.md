@@ -8,7 +8,7 @@ Betalpha Gateway Skill 已成功安装。在开始使用前，请完成以下配
 
 1. 访问或扫描小程序码：[https://ai.firstindex.cn/qr.jpg](https://ai.firstindex.cn/qr.jpg)
 2. 在小程序中获取您的 API Token
-3. Token 格式示例：`BA-fe632997-e40a-4a37-a9d2-86d2363c719d`
+3. Token 格式示例：`BA-*****************`
 
 ## 🔐 第二步：配置 API Token（推荐手动配置）
 
